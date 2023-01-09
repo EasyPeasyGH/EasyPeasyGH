@@ -40,7 +40,8 @@ orderd (list):
 ***bold cursiv*** ___cursiv bold___
 
 
-[ ] text [x] text
+[ ] text 
+[x] text
 
 > blockquote single
 
