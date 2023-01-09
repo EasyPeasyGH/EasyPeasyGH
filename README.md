@@ -48,7 +48,7 @@ orderd (list):
 >> nested fill
 > blockquotes multiple lines 3. -
 
-`js const number = 007; `
+` const number = 007; `
 
 ``` 
 code block without language markup
