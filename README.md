@@ -1,5 +1,14 @@
 # Welcome
 
+Hello, my name is "Timo". I am an artist and freelance designer from Germany. I am a creative, active and sporty Person. Interested in art, architecture, design, BJJ, surfing, cooking and nature. On GitHub since 2023. Currently leanring Web Development at "Spiced".
+
+![link](url to image)
+
+2. a link to a picture / gif,
+3. a list or table.
+
+
+
 <!--
 **EasyPeasyGH/EasyPeasyGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
