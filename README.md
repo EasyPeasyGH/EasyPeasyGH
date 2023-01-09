@@ -8,7 +8,7 @@ My website is: [www.id84.de](https://www.id84.de "www.id84.de")
 
 ---
 
-![photo_timo_profil](photo_timo_dk.jpg =250x)
+![photo_timo_profil](photo_timo_dk.jpg)
 
 ---
 
@@ -24,6 +24,7 @@ unorderd (list item):
 - list item UL 2
   - list item UL 3
   - ...
+  - ...
 - end off list
 
 orderd (list):
@@ -31,6 +32,7 @@ orderd (list):
 1. list item OL 2
   1. list item OL 3
   2. ...
+  3. ...
 3. end off list
 
 **bold1** __bold2__
