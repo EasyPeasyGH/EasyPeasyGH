@@ -8,7 +8,7 @@ My website is: [www.id84.de](https://www.id84.de "www.id84.de")
 
 ---
 
-![photo_timo_profil](photo_timo_dk.jpg){width=200px height=200px}
+![photo_timo_profil](photo_timo_dk.jpg =250x)
 
 ---
 
