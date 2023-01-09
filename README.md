@@ -9,7 +9,6 @@ My website is: [www.id84.de](https://www.id84.de "www.id84.de")
 ---
 
 <img src="photo_timo_dk.jpg" alt="photo_timo_profil" width="20%">
-![photo_timo_profil](photo_timo_dk.jpg)
 
 ---
 
